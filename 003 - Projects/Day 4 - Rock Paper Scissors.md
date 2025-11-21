@@ -1,6 +1,6 @@
 2025-11-21 03:01
 
-Status: Incomplete
+Status: Complete
 
 Tags: [[Day 4 - Randomization and Python Lists]]  [[Day 4 - Randomization and Python Lists (code)]]  #IndexErrors 
 

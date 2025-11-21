@@ -1,6 +1,6 @@
 2025-11-21 00:49
 
-Status: Incomplete
+Status: Complete
 
 Tags: [[Day 4 - Randomization and Python Lists (code)]]  [[Day 4 - Rock Paper Scissors]]  #IndexErrors 
 
@@ -18,6 +18,10 @@ Tags: [[Day 4 - Randomization and Python Lists (code)]]  [[Day 4 - Rock Paper Sc
 > random.random() # prints floating point numbers between 0 (inclusive) and 1 (!inclusive)
 >
 >random.uniform(a, b) # return a random floating point number between a (inclusive) and b (inclusive).
+>random.shuffle(list) #shuffle the members of a list
+>usage:
+>	li = ["Apple", "Orange", "Pawpaw"]
+>	random.shuffle(li)
 > 
 > ```
 

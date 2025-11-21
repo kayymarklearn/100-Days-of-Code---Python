@@ -5,7 +5,7 @@ Status:
 Tags: 
 
 
-# {Title}}
+# {{Title}}
 
 ## Todo: Program Logic
 

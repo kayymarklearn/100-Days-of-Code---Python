@@ -1,6 +1,6 @@
 2025-11-21 00:54
 
-Status: Incomplete
+Status: Complete
 
 Tags: [[Day 4 - Randomization and Python Lists]] [[Day 4 - Rock Paper Scissors]]  #IndexErrors 
 
@@ -26,6 +26,13 @@ random.choice([])
 # Takes a sequence (lists, sets etc) and picks out a random one.
 fruits = ["banana", "oranges", "papaya"]
 print(random.choice(fruits)) # fetches an item at random.
+
+random.shuffle([])
+# randomly shuffles the members of a list 
+li = ["Orange", "Guava", "Strawberry"]  
+print(li)  
+random.shuffle(li)  
+print(li)
 ```
 
 #### Lists
