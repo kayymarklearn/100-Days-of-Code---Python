@@ -8,29 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dab0221e14de04bd",
+            "id": "23c9a372a548e4aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - Notes/Day 2 - Data Types, Type (checking & converting), Math Ops & Number Manip..md",
+                "file": "004 - References/Python Errors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 2 - Data Types, Type (checking & converting), Math Ops & Number Manip."
+              "title": "Python Errors"
             }
           },
           {
-            "id": "20b6d8263f4b7c35",
+            "id": "ff62c0d8510e69a8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251120005038.png"
+                "file": "003 - Projects/Day 4 - Rock Paper Scissors.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251120005038"
+              "icon": "lucide-file",
+              "title": "Day 4 - Rock Paper Scissors"
             }
           }
         ],
@@ -182,16 +184,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "fe12acd3d7401055",
+  "active": "ff62c0d8510e69a8",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Pasted image 20251120005038.png",
-    "Untitled 1.base",
-    "001 - Notes/Day 3 - Control Flow and Logical Operators.md",
-    "003 - Projects/Day 3 - Treasure Island.md",
-    "004 - References/Python-Data-Types.webp",
-    "002 - Code Snippets/Day 3 - Control Flow and Logical Operators (code).md",
+    "002 - Code Snippets/Day 4 - Randomization and Python Lists (code).md",
+    "001 - Notes/Day 4 - Randomization and Python Lists.md",
+    "003 - Projects/Day 4 - Rock Paper Scissors.md",
     "004 - References/Python Errors.md",
+    "004 - References/Python-Data-Types.webp",
+    "003 - Projects/Day 3 - Treasure Island.md",
+    "002 - Code Snippets/Day 3 - Control Flow and Logical Operators (code).md",
+    "001 - Notes/Day 3 - Control Flow and Logical Operators.md",
+    "Pasted image 20251120005038.png",
+    "Untitled.base",
+    "Untitled 1.base",
     "003 - Projects/Day 2 - Tip Calculator.md",
     "002 - Code Snippets/Day 2 - Data Types, Type (checking & converting), Math Ops & Number Manip. (Code).md",
     "001 - Notes/Day 2 - Data Types, Type (checking & converting), Math Ops & Number Manip..md",
@@ -216,7 +221,6 @@
     "003 - Projects",
     "002 - Code Snippets",
     "001 - Notes",
-    "Day 1 - Working with Variables",
-    "Welcome.md"
+    "Day 1 - Working with Variables"
   ]
 }

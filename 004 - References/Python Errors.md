@@ -13,7 +13,14 @@
 #SyntaxError
 > Raised when the parser encounters a syntax error.
 
+#IndexErrors
+> Raised when you use an index that is larger than the size of your list
+> #Example calling for fruits\[3]
+> When fruits has just 3 items \[Remember we count from zero]
+
 
 
 ## References
 [Python Documentation](https://docs.python.org/3/)
+[IndexError](https://docs.python.org/3/library/functions.html#len)
+
