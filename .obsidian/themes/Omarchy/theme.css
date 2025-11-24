@@ -1,5 +1,5 @@
 /* Omarchy Theme for Obsidian */
-/* Generated on Sat Nov 22 12:58:11 PM GMT 2025 from theme: hackerman */
+/* Generated on Mon Nov 24 01:06:57 AM GMT 2025 from theme: hackerman */
 /* Colors sorted by frequency, backgrounds by distance */
 
 .theme-dark, .theme-light {
@@ -82,7 +82,7 @@
   /* Fonts */
   --font-interface-theme: "Liberation Sans";
   --font-text-theme: "Liberation Sans";
-  --font-monospace-theme: "FiraCode Nerd Font";
+  --font-monospace-theme: "JetBrainsMono Nerd Font";
 }
 
 /* Headers */
