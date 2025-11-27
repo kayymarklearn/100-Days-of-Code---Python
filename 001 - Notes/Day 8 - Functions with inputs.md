@@ -1,6 +1,6 @@
 2025-11-26 19:46
 
-Status: Incomplete
+Status: Complete
 
 Tags: [[Day 8 - Functions with inputs (Code)]] [[Day 8 - Caesar's Cipher]]
 
