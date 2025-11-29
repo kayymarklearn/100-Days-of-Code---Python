@@ -6,7 +6,7 @@
   "notificationSound": true,
   "customSound": "/home/konlan/Music/Notif.wav",
   "showTaskProgress": true,
-  "enableTaskTracking": false,
+  "enableTaskTracking": true,
   "logFile": "NONE",
   "logFocused": false,
   "logPath": "",
