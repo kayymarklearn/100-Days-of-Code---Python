@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ee8bb7484986e831",
+        "id": "96bd4e52487623c4",
         "type": "tabs",
         "children": [
           {
-            "id": "18b1363a810dd3a1",
+            "id": "54b3b6d472d9c368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 15 - CoffeeMachine.md",
+                "file": "002 - Code Snippets/Day 18 - Graphics, Tuples and Models (Code).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 15 - CoffeeMachine"
+              "title": "Day 18 - Graphics, Tuples and Models (Code)"
+            }
+          },
+          {
+            "id": "b643bf0a48cc68ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - Notes/Day 18 - Turtle Graphics, Tuples and Importing Modules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 18 - Turtle Graphics, Tuples and Importing Modules"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,11 +186,26 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "18b1363a810dd3a1",
+  "active": "b643bf0a48cc68ab",
   "lastOpenFiles": [
-    "Day 15 - CoffeeMachine.md",
-    "003 - Projects/Day 14 - Higher or Lower Project.md",
+    "002 - Code Snippets/Day 18 - Graphics, Tuples and Models (Code).md",
+    "Day 18 - Hirst spot color art.md",
+    "001 - Notes/Day 18 - Turtle Graphics, Tuples and Importing Modules.md",
+    "Python Sandbox.md",
+    "003 - Projects/Day 17 - Quiz Trivia Game.md",
+    "002 - Code Snippets/Day 17 - OOP (Code).md",
+    "001 - Notes/Day 16 - OOP.md",
+    "001 - Notes/Day 17 - OOP (Creating Classes).md",
+    "().md",
+    "002 - Code Snippets/Day 16 - OOP (Code).md",
+    "003 - Projects/Day 16 - Coffee Machine (In OOP).md",
+    "Pasted image 20251224093229.png",
+    "Pasted image 20251224093349.png",
+    "Pasted image 20251126200214.png",
+    "Pasted image 20251120005038.png",
     "001 - Notes/Day 13 - Debugging.md",
+    "003 - Projects/Day 15 - CoffeeMachine.md",
+    "003 - Projects/Day 14 - Higher or Lower Project.md",
     "003 - Projects/Day 12 - Number Guessing Game.md",
     "002 - Code Snippets/Day 4 - Randomization and Python Lists (code).md",
     "001 - Notes/Day 12 - Namespaces and Scope.md",
@@ -188,20 +218,7 @@
     "003 - Projects/Day 7 - Hangman.md",
     "001 - Notes/Day 4 - Randomization and Python Lists.md",
     "003 - Projects/Day 9 - Secret Auction Program.md",
-    "003 - Projects/Day 8 - Caesar's Cipher.md",
-    "002 - Code Snippets/Day 8 - Functions with inputs (Code).md",
-    "002 - Code Snippets/Day 9 - Dictionaries and Nesting (Code).md",
-    "001 - Notes/Day 9 - Dictionaries and Nesting.md",
-    "004 - References/Python Errors.md",
-    "Pasted image 20251126200214.png",
-    "001 - Notes/Day 6 - Code Blocks, Functions and While Loops.md",
-    "003 - Projects/Day 6 - Karel the Robot.md",
-    "003 - Projects/Day 5 - Password Generator.md",
-    "001 - Notes/Day 5 - Python Loops.md",
-    "002 - Code Snippets/Day 6 - Code Blocks, Functions and While Loops (code).md",
-    "002 - Code Snippets/Day 5 - Python Loops (Code).md",
     "004 - References/Python-Data-Types.webp",
-    "Pasted image 20251120005038.png",
     "Untitled.base",
     "Untitled 1.base",
     "005 - Templates",
