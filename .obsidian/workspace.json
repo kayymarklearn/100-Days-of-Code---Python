@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8fa22ace6c6af2c1",
+        "id": "e192ca9db1945fc8",
         "type": "tabs",
         "children": [
           {
-            "id": "50128ff25dbd698f",
+            "id": "42bb4508ec2f64cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - Notes/Day 27 - Tkinter, args, kwargs and GUI progs..md",
+                "file": "001 - Notes/Day 33 - API Endpoints & API Parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 27 - Tkinter, args, kwargs and GUI progs."
+              "title": "Day 33 - API Endpoints & API Parameters"
             }
           },
           {
-            "id": "b2a3e0695a82ca3b",
+            "id": "c712a32733f6b87b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - Code Snippets/Day 27 - Tkinter (GUI) and Advanced Args (code).md",
+                "file": "002 - Code Snippets/Day 32 - Send email (smtplib) and Manage Dates (datetime) (code).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 27 - Tkinter (GUI) and Advanced Args (code)"
+              "title": "Day 32 - Send email (smtplib) and Manage Dates (datetime) (code)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 382
   },
   "right": {
     "id": "97b6518d3b71a716",
@@ -157,23 +157,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - Notes/Day 10 - Functions with Outputs.md",
+                "file": "Day 30 - Errors, Exceptions and JSON Data.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 10 - Functions with Outputs"
+              "title": "Outline of Day 30 - Errors, Exceptions and JSON Data"
             }
           },
           {
-            "id": "9791cc693d9171fe",
+            "id": "93a40776084d8797",
             "type": "leaf",
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "timer-view"
+              "icon": "timer",
+              "title": "Timer"
             }
           }
         ],
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,25 +195,37 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "50128ff25dbd698f",
+  "active": "c712a32733f6b87b",
   "lastOpenFiles": [
+    "002 - Code Snippets/Day 30 - Errors and Exceptions (Code).md",
+    "001 - Notes/Day 32 - Send Email (Smtplib) and Manage Dates (datetime).md",
+    "002 - Code Snippets/Day 33 - API Endpoints & API Parameters (code).md",
+    "001 - Notes/Day 33 - API Endpoints & API Parameters.md",
+    "Http.md",
+    "Pasted image 20260125190741.png",
+    "Pasted image 20260125190606.png",
+    "002 - Code Snippets/Day 25 - Working with CSV data and Pandas (code).md",
+    "001 - Notes/Day 25 - Working with CSV and Pandas Library.md",
+    "002 - Code Snippets/Day 32 - Send email (smtplib) and Manage Dates (datetime) (code).md",
+    "002 - Code Snippets/quotes.txt",
+    "001 - Notes/Day 24 - Files, Directories and Paths.md",
+    "Untitled 1.md",
     "002 - Code Snippets/Day 27 - Tkinter (GUI) and Advanced Args (code).md",
+    "001 - Notes/Day 30 - Errors, Exceptions and JSON Data.md",
     "001 - Notes/Day 27 - Tkinter, args, kwargs and GUI progs..md",
+    "001 - Notes/Day 28 - Tkinter, Dynamic Typing and Pomodora GUI APP.md",
+    "001 - Notes/Day 26 - List Comprehension and the NATO Alphabet.md",
+    "002 - Code Snippets/Day 18 - Graphics, Tuples and Models (Code).md",
+    "002 - Code Snippets/Namespaces and Scope (code).md",
     "session.svg",
     "Pasted image 20260104194317.png",
     "Pasted image 20260104194710.png",
     "2026-01-02.md",
-    "001 - Notes/Day 26 - List Comprehension and the NATO Alphabet.md",
-    "002 - Code Snippets/Day 25 - Working with CSV data and Pandas (code).md",
     "Pasted image 20260104190021.png",
     "Pasted image 20260104185808.png",
     "Pasted image 20260104185801.png",
     "Pasted image 20260104185144.png",
     "Pasted image 20260104184838.png",
-    "Pasted image 20260104184543.png",
-    "Pasted image 20260104184538.png",
-    "001 - Notes/Day 25 - Working with CSV and Pandas Library.md",
-    "001 - Notes/Day 24 - Files, Directories and Paths.md",
     "003 - Projects/Day 3 - Treasure Island.md",
     "002 - Code Snippets/Day 20 - 21 - Class Inheritance & Slicing (code).md",
     "003 - Projects/Day 20-21 - Snake Game.md",
@@ -223,17 +234,6 @@
     "001 - Notes/Day 19 - Instances, State and Higher Order funcs.md",
     "002 - Code Snippets/Day 19 - Instances, State and Higher Order Funcs (Code).md",
     "003 - Projects/Day 18 - Hirst spot color art.md",
-    "001 - Notes/Day 18 - Turtle Graphics, Tuples and Importing Modules.md",
-    "002 - Code Snippets/Day 18 - Graphics, Tuples and Models (Code).md",
-    "Python Sandbox.md",
-    "003 - Projects/Day 17 - Quiz Trivia Game.md",
-    "002 - Code Snippets/Day 17 - OOP (Code).md",
-    "001 - Notes/Day 16 - OOP.md",
-    "001 - Notes/Day 17 - OOP (Creating Classes).md",
-    "().md",
-    "002 - Code Snippets/Day 16 - OOP (Code).md",
-    "003 - Projects/Day 16 - Coffee Machine (In OOP).md",
-    "001 - Notes/Day 13 - Debugging.md",
     "Untitled.base",
     "Untitled 1.base",
     "005 - Templates",
