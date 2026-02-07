@@ -1,3 +1,4 @@
+
 2026-01-03 13:20
 
 Status: Incomplete
@@ -208,7 +209,148 @@ pass
 # {new_key:new_value for (index, row) in df.iterrows()}
 ```
 
+### More pandas examples
+```
+import pandas as pd
 
+  
+
+df = pd.read_csv("orders.csv") # type: ignore
+
+  
+
+# Indexing based on columns (series)
+
+# print(df[["Country", "Product", "Quantity"]])
+
+  
+
+# Get the range for the rows
+
+# Get first five rows
+
+# print(df.head())
+
+# Get last five rows
+
+# print(df.tail())
+
+# Get all column names
+
+# print(df.columns)
+
+# Get info or math data on data
+
+# (print(df.info())) # Verbose info
+
+# print(df.describe()) # Verbose math data (max, count, mean, std, min, 25%, 50%, 75%)
+
+# print(df.index)
+
+# Indexing based on rows (series)
+
+# print(df.iloc[1]) # Access data using the row index
+
+# for i in range(0, 40, 1):
+
+# print(f"{i}. {df.iloc[i]["CustomerName"]}\n{df.iloc[i]["Country"]}")
+
+  
+
+# Filtering data
+
+  
+
+# print(df[(df["Category"] == "Electronics") & (df["Country"] == "USA")]) # Look for all values where the category is electronics and the country is USA
+
+# print(df[(df["Category"] == "Electronics")| (df["Country"] == "USA")]) # Look for all entries where the category is Electronics or the country is USA
+
+  
+
+# print(df[df["Quantity"] > 20]) # All entries where Quantity is greater than 20 [Basically all conditions can be checked]
+
+# print(df[df["Quantity"] != 2]) # All entries where Quantity is not 2
+
+  
+
+# print(df[df["CustomerName"].str.startswith("A")]) # Check for all Customer Names that starts with A
+
+# print(df[df["CustomerName"].str.endswith("s")]) # All customer Names that ends with s
+
+# print(df[df["Country"].isin(["USA", "Sweden", "Brazil"])]) # Check if an entry is in a given list (array)
+
+# print(df[~df["Country"].isin(["USA", "Sweden", "Brazil"])]) # The tild ~ operator reverses the condition just like not (!)
+
+  
+
+# Updating data
+
+  
+
+# print(df.loc[df["CustomerName"] == "Anna Ivanova"]) # Accessing using the column name
+
+# df.loc[df['CustomerName'] == "Nora Ibrahim", "Product"] = "Laptop" # Find an entry using the name and update the row
+
+# print(df.loc[df["CustomerName"] == "Nora Ibrahim"])
+
+  
+
+# df.loc[df['Country'] == "USA", "Country"] = "United States" # Update USA to United States in the country column for all entries
+
+# df["Country"] = df["Country"].str.upper() # Change everything in a column (in this case make it all upper case)
+
+# print(df["Country"])
+
+  
+  
+
+# Deleting data
+
+# df = df.drop(39) # Delete row at index 39
+
+# print(df.tail())
+
+  
+
+# Cleaning data
+
+# df.dropna(inplace=True) # Drop any data with null data
+
+  
+
+# df.fillna({"OrderID": 0}, inplace=True) # replace all OrderIDs with no data with 0 and replace in the current df not return a new df (inplace)
+
+  
+  
+
+# Renaming columns
+
+# print(f"{df.head()}\n")
+
+# df.rename(columns={"OrderID": "Order ID"}, inplace=True) # replaces a column name in the df without returning a new one
+
+# print(df.head())
+
+  
+
+# Analyzing Data
+
+# print(df["Country"].value_counts()) # Return a count of every value in the given column
+
+# print(df.groupby("Country")["Price"].sum()) # Group by a given column data, like sorting in excel
+
+# print(df.sort_values("Price", ascending=False)) # sort in descending order by price (takes inplace to determine if it'll affect the dataframe)
+
+# print(df.sort_values("Quantity", ascending=True)) # sort in ascending order of quantity (smallest to largest)
+
+  
+
+df.sort_values("Price", ascending=False, inplace=True)
+
+  
+
+df.to_csv("new_file.csv", index=False) # Save to a new csv file, without index (use True if keeping index or don't add an index arg)
+```
 
 ## Reference
 [2018 Central Park Squirrel Census Data can be found here](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/data_preview)
