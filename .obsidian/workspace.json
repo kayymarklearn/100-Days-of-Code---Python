@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "12454c58fdffe029",
+        "id": "42dfbd7274404768",
         "type": "tabs",
         "children": [
           {
-            "id": "9e5e1024a1b4b146",
+            "id": "be39a32fdcaef83f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001 - Notes/Day 37 - API Post Reqs and Headers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Day 37 - API Post Reqs and Headers"
             }
           }
         ]
@@ -167,8 +171,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "9e5e1024a1b4b146",
+  "active": "be39a32fdcaef83f",
   "lastOpenFiles": [
+    "001 - Notes/Day 37 - API Post Reqs and Headers.md",
+    "Untitled.md",
     "002 - Code Snippets/Day 25 - Working with CSV data and Pandas (code).md",
     "001 - Notes/Day 35 - Keys, Authentication & Env Variables.md",
     "001 - Notes/Day 32 - Send Email (Smtplib) and Manage Dates (datetime).md",
@@ -186,7 +192,6 @@
     "001 - Notes/Day 25 - Working with CSV and Pandas Library.md",
     "002 - Code Snippets/quotes.txt",
     "001 - Notes/Day 24 - Files, Directories and Paths.md",
-    "Untitled 1.md",
     "001 - Notes/Day 30 - Errors, Exceptions and JSON Data.md",
     "001 - Notes/Day 26 - List Comprehension and the NATO Alphabet.md",
     "002 - Code Snippets/Day 18 - Graphics, Tuples and Models (Code).md",
@@ -205,7 +210,6 @@
     "003 - Projects/Day 20-21 - Snake Game.md",
     "001 - Notes/Day 20 - 21 - Class Inheritance & Slicing.md",
     "003 - Projects/Day 19 - Projects.md",
-    "001 - Notes/Day 19 - Instances, State and Higher Order funcs.md",
     "Untitled.base",
     "Untitled 1.base",
     "005 - Templates",
