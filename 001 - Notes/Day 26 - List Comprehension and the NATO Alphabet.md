@@ -15,19 +15,19 @@ Tags:
 > new_list = [n+1 (the new criteria for the new list) for n (any item in our old list) in numbers (our old list)]
 > ```
 
-![[Pasted image 20260104184543.png]]
+![[List comprehension 1.png]]
 > List comprehensions do not only work for lists, they work for other sequences like strings, range, tuples etc.
-> ![[Pasted image 20260104184838.png]]
+> ![[List comprehension 2.png]]
 
 > List Comprehension on a range
-> ![[Pasted image 20260104185144.png]]
+> ![[List comprehension 3.png]]
 
 > We can also do conditional list comprehension
 > It follows the scheme
 > new_list = [new_item for item in list if test]
-> ![[Pasted image 20260104185808.png]]
+> ![[List comprehension 5.png]]
 > test is basically the condition
-> ![[Pasted image 20260104190021.png]]
+> ![[List comprehension 6.png]]
 
 
 # **Dictionary Comprehensions**
@@ -37,10 +37,10 @@ Tags:
 > new_dict = {new_key:new_value for (key, value) in dict.items()}
 
 ### Dictionary comprehension from a list
-> ![[Pasted image 20260104194317.png]]
+> ![[List comprehension dict.png]]
 
 
 ### Dictionary comprehension from a dictionary
-![[Pasted image 20260104194710.png]]
+![[List comprehension 7.png]]
 
 ## References

@@ -10,7 +10,7 @@ Tags:  [[Day 3 - Control Flow and Logical Operators]] && [[Day 3 - Control Flow 
 
 ## Todo: Program Logic
 
-![[Pasted image 20251120005038.png]]
+![[Treasure Island flowchart.png]]
 ## Code: Project Code
 ```
 print(r'''  

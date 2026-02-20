@@ -14,7 +14,7 @@ Tags: [[Day 16 - OOP (Code)]]
  We create a blueprint (called a class). and then initialize instances of that class (called objects).
 To create an new instance, assign it to a variable.
 Example; timmy = Turtle() # where Turtle is the class
-![[Pasted image 20251224093349.png]]
+![[Python objects.png]]
 to access attributes or methods use the name of the object (.) the name of the attribute or attribute.
 Example; timmy.screen() # Where screen() is a method (function) in the Turtle class
 

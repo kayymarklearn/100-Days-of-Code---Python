@@ -7,9 +7,9 @@ Tags: [[Day 33 - API Endpoints & API Parameters (code)]]
 
 # **What are APIs?**
 > Application Programming Interface (API)  is a set of commands, functions, protocols and objects that programmers can use to create software or interact with external systems. 
-> ![[Pasted image 20260125190606.png]]
+> ![[Api.png]]
    It's an interface between your program and an external system for data. If all protocols (or rules) are followed.
-![[Pasted image 20260125190741.png]]
+![[Api 2.png]]
 
 ### API Endpoints
 > Usually a URL that's the location/address for find data.

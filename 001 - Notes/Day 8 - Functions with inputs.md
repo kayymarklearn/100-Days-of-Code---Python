@@ -57,7 +57,7 @@ The value of the value of the input variable, e.g. Angela when you call the pr
 > # For example, with greet()
 > 	greet(location = "Accra", name = "Mark")
 > ```
-![[Pasted image 20251126200214.png]]
+![[Python functions  with inputs.png]]
 
 
 ## References
