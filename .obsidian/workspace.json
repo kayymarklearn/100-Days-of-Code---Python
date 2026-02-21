@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - Notes/Day 42 - Web Foundations - Intermediate HTML.md",
+                "file": "001 - Notes/Day 43 - Introduction to CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 42 - Web Foundations - Intermediate HTML"
+              "title": "Day 43 - Introduction to CSS"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - Notes/Day 42 - Web Foundations - Intermediate HTML.md",
+                "file": "001 - Notes/Day 43 - Introduction to CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 42 - Web Foundations - Intermediate HTML"
+              "title": "Outgoing links from Day 43 - Introduction to CSS"
             }
           },
           {
@@ -171,18 +171,18 @@
   },
   "active": "b99fec6d9f81effb",
   "lastOpenFiles": [
-    "Pasted image 20260220023118.png",
-    "Pasted image 20260220023024.png",
-    "Nested_indented code.png",
+    "External CSS.png",
+    "001 - Notes/Day 43 - Introduction to CSS.md",
+    "Internal CSS.png",
     "001 - Notes/Day 42 - Web Foundations - Intermediate HTML.md",
+    "HTML attributes.png",
     "html heading tag.png",
+    "HTML attributes 1.png",
+    "Python functions  with inputs.png",
+    "Inline css.png",
+    "Nested_indented code.png",
     "Internet.png",
     "Api 2.png",
-    "Api.png",
-    "List comprehension 7.png",
-    "List comprehension dict.png",
-    "List comprehension 6.png",
-    "List comprehension 5.png",
     "001 - Notes/Day 41 - Web Foundation - Intro to HTML.md",
     "Untitled.canvas",
     "001 - Notes/Day 37 - API Post Reqs and Headers.md",
@@ -208,7 +208,6 @@
     "2026-01-02.md",
     "003 - Projects/Day 3 - Treasure Island.md",
     "002 - Code Snippets/Day 20 - 21 - Class Inheritance & Slicing (code).md",
-    "003 - Projects/Day 20-21 - Snake Game.md",
     "Untitled.base",
     "Untitled 1.base",
     "005 - Templates",

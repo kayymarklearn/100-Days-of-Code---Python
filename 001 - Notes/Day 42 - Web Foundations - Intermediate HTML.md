@@ -49,10 +49,10 @@ Tags: [[Day 41 - Web Foundation - Intro to HTML]]
 
 ### Understanding Attributes
 > An attribute goes into the opening tag, just after the name of the tag before the end `>` of the opening tag, attributes add additional functionality to a tag.
-> ![[Pasted image 20260220023024.png]]
+> ![[HTML attributes.png]]
 > You can use multiple attributes by separating them with whitespace.
 >  
-> ![[Pasted image 20260220023118.png]]
+> ![[HTML attributes 1.png]]
 > Some attributes are specific to certain elements like the `href` attribute to the anchor element.
 > But some are Global attributes like `draggable` which works on all elements.
 
