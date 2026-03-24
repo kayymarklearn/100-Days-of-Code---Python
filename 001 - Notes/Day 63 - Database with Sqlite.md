@@ -156,6 +156,7 @@ with app.app_context():
   #Note Adding .all() to a select query returns a list not just an SQLAlchemy Object
   #Note NOTE: HTML forms (WTForms included) [do not accept PUT, PATCH or DELETE methods](https://softwareengineering.stackexchange.com/questions/114156/why-are-there-are-no-put-and-delete-methods-on-html-forms). So while this would normally be a PUT request (replacing existing data), because the request is coming from a HTML form, you should accept the edited post as a POST request.
 
+#Note In order to allow a file to be downloaded, we use a Flask method called send_from_directory()
 
 
 ## References

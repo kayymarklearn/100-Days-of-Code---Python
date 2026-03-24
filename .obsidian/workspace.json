@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58c9e40f635a34c6",
+            "id": "fb1c3c29e43b4ed3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - Notes/Day 63 - Database with Sqlite.md",
+                "file": "001 - Notes/Day 68 - Authentication with Flask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 63 - Database with Sqlite"
+              "title": "Day 68 - Authentication with Flask"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382,
-    "collapsed": true
+    "width": 382
   },
   "right": {
     "id": "97b6518d3b71a716",
@@ -171,15 +170,31 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "58c9e40f635a34c6",
+  "active": "fb1c3c29e43b4ed3",
   "lastOpenFiles": [
-    "001 - Notes/Day 66 - Building REST API Service.md",
+    "flask_auth.md",
+    "001 - Notes/Day 68 - Authentication with Flask.md",
     "001 - Notes/Day 63 - Database with Sqlite.md",
+    "flask_auth/templates/secrets.html",
+    "flask_auth/templates/register.html",
+    "flask_auth/templates/login.html",
+    "flask_auth/templates/index.html",
+    "flask_auth/templates/base.html",
+    "flask_auth/templates",
+    "flask_auth/instance/users.db",
+    "flask_auth/instance",
+    "flask_auth/static/files/cheat_sheet.pdf",
+    "flask_auth/static/css/styles.css",
+    "flask_auth/README.md",
+    "001 - Notes/Day 66 - Building REST API Service.md",
+    "Pasted image 20260324133209.png",
+    "Pasted image 20260324130132.png",
+    "Pasted image 20260324124949.png",
+    "Pasted image 20260324101036.png",
     "001 - Notes/Day 55 - Advanced Decorators, HTML Rendering, Parsing URLs and Flask Debugging.md",
     "001 - Notes/Day 56 - Rendering HTML static files Using website Templates.md",
     "001 - Notes/Day 65 - Web Design School.md",
     "Restful Routing.png",
-    "Untitled.md",
     "Pasted image 20260321175646.png",
     "Api 2.png",
     "Client-server-db.jpg",
@@ -189,25 +204,11 @@
     "001 - Notes/Day 54 - Intro to web dev with Flask.md",
     "001 - Notes/Day 57 - Templating with Jinja in Flask apps.md",
     "001 - Notes/Day 58 - Web Foundations (Bootstrap).md",
-    "chapters/chap01.ipynb",
-    "chapters",
-    "wt_forms/main.py",
-    "wt_forms/forms.py",
-    "wt_forms/__pycache__/forms.cpython-313.pyc",
-    "wt_forms/__pycache__",
-    "wt_forms/requirements.txt",
-    "wt_forms/uv.lock",
-    "wt_forms/templates/success.html",
-    "wt_forms/templates/login.html",
     "wt_forms/README.md",
     "001 - Notes/Day 32 - Send Email (Smtplib) and Manage Dates (datetime).md",
     "Pasted image 20260307175910.png",
     "001 - Notes/Day 26 - List Comprehension and the NATO Alphabet.md",
     "Pasted image 20260307093029.png",
-    "Pasted image 20260307093015.png",
-    "Pasted image 20260307092948.png",
-    "Pasted image 20260307092943.png",
-    "Pasted image 20260307092929.png",
     "Flask docs.md",
     "001 - Notes/Day 48 - Browser automation with selenium (Code).md",
     "001 - Notes/Day 45 - Web Scraping with Beautiful Soup.md",
@@ -217,7 +218,6 @@
     "001 - Notes/Day 43 - Introduction to CSS.md",
     "001 - Notes/Day 41 - Web Foundation - Intro to HTML.md",
     "Untitled.canvas",
-    "001 - Notes/Day 37 - API Post Reqs and Headers.md",
-    "002 - Code Snippets/Day 25 - Working with CSV data and Pandas (code).md"
+    "001 - Notes/Day 37 - API Post Reqs and Headers.md"
   ]
 }
