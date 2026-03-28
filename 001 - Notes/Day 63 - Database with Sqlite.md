@@ -2,9 +2,9 @@
 
 Status: incomplete
 
-Tags:
-
-
+Tags: [[Day 69 - Relational Database]]
+[[Day 66 - Building REST API Service]]
+[[Day 68 - Authentication with Flask]]
 # **Databases**
 >Databases allow us to store persistent data in our applications (eg. user data like passwords, emails and usernames.)
 >The most used database in the world is SQLite. It's so popular that it's included by default in all Python installations, so if you're creating a Python project, you've already got it installed.

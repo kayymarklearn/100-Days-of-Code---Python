@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb1c3c29e43b4ed3",
+            "id": "e646fb2c4541797e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - Notes/Day 68 - Authentication with Flask.md",
+                "file": "Day 70 - Git, Github and Version Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 68 - Authentication with Flask"
+              "title": "Day 70 - Git, Github and Version Control"
+            }
+          },
+          {
+            "id": "55623271c784091c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 71 - Hosting WebApp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 71 - Hosting WebApp"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,11 +89,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 382
+    "width": 382,
+    "collapsed": true
   },
   "right": {
     "id": "97b6518d3b71a716",
@@ -170,11 +187,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fb1c3c29e43b4ed3",
+  "active": "55623271c784091c",
   "lastOpenFiles": [
-    "flask_auth.md",
-    "001 - Notes/Day 68 - Authentication with Flask.md",
+    "Day 70 - Git, Github and Version Control.md",
+    "Day 71 - Hosting WebApp.md",
+    "Pasted image 20260327155831.png",
     "001 - Notes/Day 63 - Database with Sqlite.md",
+    "001 - Notes/Day 68 - Authentication with Flask.md",
+    "Pasted image 20260327152232.png",
+    "Pasted image 20260327152133.png",
+    "Pasted image 20260327151437.png",
+    "Pasted image 20260327151158.png",
+    "Pasted image 20260327150706.png",
+    "Pasted image 20260327145909.png",
+    "Pasted image 20260327145903.png",
+    "Pasted image 20260327145724.png",
+    "Day 69 - Relational Database.md",
+    "flask_auth/README.md",
+    "flask_auth.md",
     "flask_auth/templates/secrets.html",
     "flask_auth/templates/register.html",
     "flask_auth/templates/login.html",
@@ -185,19 +215,11 @@
     "flask_auth/instance",
     "flask_auth/static/files/cheat_sheet.pdf",
     "flask_auth/static/css/styles.css",
-    "flask_auth/README.md",
     "001 - Notes/Day 66 - Building REST API Service.md",
     "Pasted image 20260324133209.png",
-    "Pasted image 20260324130132.png",
-    "Pasted image 20260324124949.png",
-    "Pasted image 20260324101036.png",
     "001 - Notes/Day 55 - Advanced Decorators, HTML Rendering, Parsing URLs and Flask Debugging.md",
     "001 - Notes/Day 56 - Rendering HTML static files Using website Templates.md",
     "001 - Notes/Day 65 - Web Design School.md",
-    "Restful Routing.png",
-    "Pasted image 20260321175646.png",
-    "Api 2.png",
-    "Client-server-db.jpg",
     "001 - Notes/Day 42 - Web Foundations - Intermediate HTML.md",
     "001 - Notes/Day 35 - Keys, Authentication & Env Variables.md",
     "001 - Notes/Day 33 - API Endpoints & API Parameters.md",
@@ -206,18 +228,13 @@
     "001 - Notes/Day 58 - Web Foundations (Bootstrap).md",
     "wt_forms/README.md",
     "001 - Notes/Day 32 - Send Email (Smtplib) and Manage Dates (datetime).md",
-    "Pasted image 20260307175910.png",
     "001 - Notes/Day 26 - List Comprehension and the NATO Alphabet.md",
-    "Pasted image 20260307093029.png",
     "Flask docs.md",
     "001 - Notes/Day 48 - Browser automation with selenium (Code).md",
     "001 - Notes/Day 45 - Web Scraping with Beautiful Soup.md",
     "001 - Notes/Day 48 - Browser Automation with Selenium.md",
     "001 - Notes/Day 45 - Web Scraping with BeautifulSoup (Code).md",
     "001 - Notes/Day 44 - Intermediate CSS.md",
-    "001 - Notes/Day 43 - Introduction to CSS.md",
-    "001 - Notes/Day 41 - Web Foundation - Intro to HTML.md",
-    "Untitled.canvas",
-    "001 - Notes/Day 37 - API Post Reqs and Headers.md"
+    "Untitled.canvas"
   ]
 }
