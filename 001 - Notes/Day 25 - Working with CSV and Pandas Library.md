@@ -3,7 +3,8 @@
 Status: Incomplete
 
 Tags: [[Day 25 - Working with CSV data and Pandas (code)]]
-
+[[Day 73 - Data Visualization with Matplotlib]]
+[[Day 72 - Data Exploration with Pandas]]
 
 # **CSV**
 > CSV is short for Comma separated values and its a simple way of representing tabular data (like in xcel) using only commas.

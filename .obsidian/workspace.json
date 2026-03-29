@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e0a861632b371aa3",
+        "id": "e6d2405222288da8",
         "type": "tabs",
         "children": [
           {
-            "id": "e646fb2c4541797e",
+            "id": "d1897c12bad5a181",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 70 - Git, Github and Version Control.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Day 70 - Git, Github and Version Control"
-            }
-          },
-          {
-            "id": "55623271c784091c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 71 - Hosting WebApp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 71 - Hosting WebApp"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382,
-    "collapsed": true
+    "width": 382
   },
   "right": {
     "id": "97b6518d3b71a716",
@@ -187,21 +167,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "55623271c784091c",
+  "active": "d1897c12bad5a181",
   "lastOpenFiles": [
-    "Day 70 - Git, Github and Version Control.md",
+    "Day 72 - Data Exploration with Pandas.md",
+    "Day 73 - Data Visualization with Matplotlib.md",
+    "Pasted image 20260328195340.png",
+    "001 - Notes/Day 25 - Working with CSV and Pandas Library.md",
+    "Pasted image 20260328112153.png",
+    "Pasted image 20260328112017.png",
+    "Pasted image 20260328111022.png",
+    "Pasted image 20260328110802.png",
+    "Pasted image 20260328110445.png",
+    "Pasted image 20260328110230.png",
+    "Pasted image 20260328105743.png",
+    "Pasted image 20260328105652.png",
+    "Pasted image 20260328105425.png",
     "Day 71 - Hosting WebApp.md",
-    "Pasted image 20260327155831.png",
+    "Day 70 - Git, Github and Version Control.md",
     "001 - Notes/Day 63 - Database with Sqlite.md",
     "001 - Notes/Day 68 - Authentication with Flask.md",
-    "Pasted image 20260327152232.png",
-    "Pasted image 20260327152133.png",
-    "Pasted image 20260327151437.png",
-    "Pasted image 20260327151158.png",
-    "Pasted image 20260327150706.png",
-    "Pasted image 20260327145909.png",
-    "Pasted image 20260327145903.png",
-    "Pasted image 20260327145724.png",
     "Day 69 - Relational Database.md",
     "flask_auth/README.md",
     "flask_auth.md",
@@ -216,7 +200,6 @@
     "flask_auth/static/files/cheat_sheet.pdf",
     "flask_auth/static/css/styles.css",
     "001 - Notes/Day 66 - Building REST API Service.md",
-    "Pasted image 20260324133209.png",
     "001 - Notes/Day 55 - Advanced Decorators, HTML Rendering, Parsing URLs and Flask Debugging.md",
     "001 - Notes/Day 56 - Rendering HTML static files Using website Templates.md",
     "001 - Notes/Day 65 - Web Design School.md",
@@ -231,10 +214,6 @@
     "001 - Notes/Day 26 - List Comprehension and the NATO Alphabet.md",
     "Flask docs.md",
     "001 - Notes/Day 48 - Browser automation with selenium (Code).md",
-    "001 - Notes/Day 45 - Web Scraping with Beautiful Soup.md",
-    "001 - Notes/Day 48 - Browser Automation with Selenium.md",
-    "001 - Notes/Day 45 - Web Scraping with BeautifulSoup (Code).md",
-    "001 - Notes/Day 44 - Intermediate CSS.md",
     "Untitled.canvas"
   ]
 }
