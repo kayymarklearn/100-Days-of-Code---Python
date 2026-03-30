@@ -4,6 +4,7 @@ Status: incomplete
 
 Tags: [[Day 25 - Working with CSV and Pandas Library]]
 [[Day 73 - Data Visualization with Matplotlib]]
+[[Day 74 - Aggregate and Merge Data with Pandas]]
 
 # **Pandas**
 Pandas is one of the most popular python packages for working with data as we already learned in Day 25.

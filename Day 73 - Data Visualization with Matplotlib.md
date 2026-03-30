@@ -4,7 +4,7 @@ Status: Incomplete
 
 Tags: [[Day 72 - Data Exploration with Pandas]]
 [[Day 25 - Working with CSV and Pandas Library]]
-
+[[Day 74 - Aggregate and Merge Data with Pandas]]
 
 #### Data Manipulation with PANDAS 
 > We can access columns not only with the square bracket notation like `df['DATE']` if the column name is a single word, we can use the dot notation like so, `df.DATE`
