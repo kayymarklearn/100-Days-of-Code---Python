@@ -2,9 +2,9 @@
 
 Status:
 
-Tags:
-
-
+Tags: [[Day 74 - Aggregate and Merge Data with Pandas]]
+[[Day 76 - Plotly Charts]]
+[[Day 77 - Computation with Numpy and N-Dimensional Arrays]]
 # Learning points
 In this lesson we looked at how to:
 

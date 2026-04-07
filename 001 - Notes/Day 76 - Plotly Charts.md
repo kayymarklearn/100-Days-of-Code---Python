@@ -4,7 +4,8 @@ Status: Incomplete
 
 Tags: [[Day 75 - Google Trends Data Resampling]]
 [[Day 74 - Aggregate and Merge Data with Pandas]]
-
+[[Day 77 - Computation with Numpy and N-Dimensional Arrays]]
+[[Day 78 - Linear Regression and Data visualization with Seaborn]]
 ## Learning Points
 - Pull a random sample from a DataFrame using `.sample()`
     
